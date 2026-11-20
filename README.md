@@ -15,5 +15,7 @@
 ### Ouick Sort Output
 <img width="456" height="111" alt="image" src="https://github.com/user-attachments/assets/03225081-8894-4eb9-897f-074879b0c170" />
 
+## PRACTICAL_2
+
 
 
