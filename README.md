@@ -9,3 +9,7 @@
 ### Insertion Sort Output
 <img width="455" height="90" alt="image" src="https://github.com/user-attachments/assets/298f39e6-ccae-4069-a219-d5e49c1783ce" />
 
+### Merge Sort Output
+<img width="457" height="101" alt="image" src="https://github.com/user-attachments/assets/b9399940-450e-40b5-9f8e-dd16a9faf209" />
+
+
