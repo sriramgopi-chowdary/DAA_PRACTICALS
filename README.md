@@ -37,6 +37,11 @@
 ### Knapsack Output
 <img width="455" height="128" alt="image" src="https://github.com/user-attachments/assets/ba95ee4d-3dd7-46b2-941e-6d48cd274fab" />
 
+## PRACTICAL_6
+### Matrix Chain Multiplication Output
+<img width="458" height="106" alt="image" src="https://github.com/user-attachments/assets/b741ca3d-c974-42ca-923b-127f9cabe804" />
+
+
 
 
 
