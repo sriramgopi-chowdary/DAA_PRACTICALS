@@ -22,6 +22,11 @@
 ### Binary Search Output
 <img width="458" height="104" alt="image" src="https://github.com/user-attachments/assets/dfa37427-4bac-431c-b6cd-151a0943b7af" />
 
+## PRACTICAL_3
+### Max-Heap Sort Output
+<img width="455" height="98" alt="image" src="https://github.com/user-attachments/assets/31a7f739-ce5d-4e13-b5b5-1564f3f7e418" />
+
+
 
 
 
