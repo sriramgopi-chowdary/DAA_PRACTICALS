@@ -41,6 +41,14 @@
 ### Matrix Chain Multiplication Output
 <img width="458" height="106" alt="image" src="https://github.com/user-attachments/assets/b741ca3d-c974-42ca-923b-127f9cabe804" />
 
+## PRACTICAL_7
+### Coin Change (Making Change) Output
+<img width="454" height="128" alt="image" src="https://github.com/user-attachments/assets/6d2ba859-0832-4203-9c9d-b22a85dbd3f4" />
+
+## PRACTICAL_8
+### 
+
+
 
 
 
