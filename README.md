@@ -12,7 +12,7 @@
 ### Merge Sort Output
 <img width="457" height="101" alt="image" src="https://github.com/user-attachments/assets/b9399940-450e-40b5-9f8e-dd16a9faf209" />
 
-### Ouick Sort Output
+### Quick Sort Output
 <img width="456" height="111" alt="image" src="https://github.com/user-attachments/assets/03225081-8894-4eb9-897f-074879b0c170" />
 
 ## PRACTICAL_2
