@@ -33,6 +33,11 @@
 ### Recursive Factorial Output
 <img width="457" height="132" alt="image" src="https://github.com/user-attachments/assets/17af4ac9-2651-47f1-9aa9-e9f5f2a58daa" />
 
+## PRACTICAL_5
+### Knapsack Output
+<img width="455" height="128" alt="image" src="https://github.com/user-attachments/assets/ba95ee4d-3dd7-46b2-941e-6d48cd274fab" />
+
+
 
 
 
