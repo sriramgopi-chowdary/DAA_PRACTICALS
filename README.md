@@ -26,6 +26,15 @@
 ### Max-Heap Sort Output
 <img width="455" height="98" alt="image" src="https://github.com/user-attachments/assets/31a7f739-ce5d-4e13-b5b5-1564f3f7e418" />
 
+## PRACTICAL_4
+### Iterative Factorial Output
+<img width="455" height="143" alt="image" src="https://github.com/user-attachments/assets/c1fbe4a4-a5e9-4658-8562-de68006a0247" />
+
+### Recursive Factorial Output
+<img width="457" height="132" alt="image" src="https://github.com/user-attachments/assets/17af4ac9-2651-47f1-9aa9-e9f5f2a58daa" />
+
+
+
 
 
 
