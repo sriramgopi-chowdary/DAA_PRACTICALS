@@ -54,7 +54,18 @@
 <img width="457" height="101" alt="image" src="https://github.com/user-attachments/assets/46e65ad0-216e-492c-b239-d8950de8f0b1" />
 
 ## PRACTICAL_10
-### 
+### Kruskal’s Algorithm Output
+<img width="458" height="139" alt="image" src="https://github.com/user-attachments/assets/8888c06f-9429-43a7-8057-4142d5b58d43" />
+
+## PRACTICAL_11
+### Floyd–Warshall algorithm Output
+<img width="454" height="253" alt="image" src="https://github.com/user-attachments/assets/83f63510-5eaa-48a6-86d2-9c1217914a3c" />
+
+## PRACTICAL_12
+### Travelling Salesman Problem (TSP) Output
+
+
+
 
 
 
