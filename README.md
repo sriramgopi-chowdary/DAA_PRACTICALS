@@ -1,7 +1,7 @@
 # DAA_PRACTICALS
-## PRACTICAL_1
+## PRACTICAL_01
 ### Bubble Sort Output
-<img width="458" height="95" alt="image" src="https://github.com/user-attachments/assets/a742caa8-a998-4949-af9f-99c13ec16703" />
+<img width="457" height="65" alt="image" src="https://github.com/user-attachments/assets/97f99128-b802-4218-bfc9-aad79990978b" />
 
 ### Selection Sort Output
 <img width="458" height="95" alt="image" src="https://github.com/user-attachments/assets/239069dc-2869-474e-8eec-ebdb59368e84" />
@@ -15,41 +15,41 @@
 ### Quick Sort Output
 <img width="456" height="111" alt="image" src="https://github.com/user-attachments/assets/03225081-8894-4eb9-897f-074879b0c170" />
 
-## PRACTICAL_2
+## PRACTICAL_02
 ### Linear Search Output
 <img width="457" height="99" alt="image" src="https://github.com/user-attachments/assets/c244d561-99b2-4cfb-9c72-6d00749098a6" />
 
 ### Binary Search Output
 <img width="458" height="104" alt="image" src="https://github.com/user-attachments/assets/dfa37427-4bac-431c-b6cd-151a0943b7af" />
 
-## PRACTICAL_3
+## PRACTICAL_03
 ### Max-Heap Sort Output
 <img width="455" height="98" alt="image" src="https://github.com/user-attachments/assets/31a7f739-ce5d-4e13-b5b5-1564f3f7e418" />
 
-## PRACTICAL_4
+## PRACTICAL_04
 ### Iterative Factorial Output
 <img width="455" height="143" alt="image" src="https://github.com/user-attachments/assets/c1fbe4a4-a5e9-4658-8562-de68006a0247" />
 
 ### Recursive Factorial Output
 <img width="457" height="132" alt="image" src="https://github.com/user-attachments/assets/17af4ac9-2651-47f1-9aa9-e9f5f2a58daa" />
 
-## PRACTICAL_5
+## PRACTICAL_05
 ### Knapsack Output
 <img width="455" height="128" alt="image" src="https://github.com/user-attachments/assets/ba95ee4d-3dd7-46b2-941e-6d48cd274fab" />
 
-## PRACTICAL_6
+## PRACTICAL_06
 ### Matrix Chain Multiplication Output
 <img width="458" height="106" alt="image" src="https://github.com/user-attachments/assets/b741ca3d-c974-42ca-923b-127f9cabe804" />
 
-## PRACTICAL_7
+## PRACTICAL_07
 ### Coin Change (Making Change) Output
 <img width="454" height="128" alt="image" src="https://github.com/user-attachments/assets/6d2ba859-0832-4203-9c9d-b22a85dbd3f4" />
 
-## PRACTICAL_8
+## PRACTICAL_08
 ### Graph+BFS+DFS Output
 <img width="455" height="153" alt="image" src="https://github.com/user-attachments/assets/157b2b46-30d7-4ad6-8229-ca51b76e3000" />
 
-## PRACTICAL_9
+## PRACTICAL_09
 ### Prim’s Algorithm Output
 <img width="457" height="101" alt="image" src="https://github.com/user-attachments/assets/46e65ad0-216e-492c-b239-d8950de8f0b1" />
 
