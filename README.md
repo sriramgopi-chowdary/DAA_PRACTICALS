@@ -49,6 +49,14 @@
 ### Graph+BFS+DFS Output
 <img width="455" height="153" alt="image" src="https://github.com/user-attachments/assets/157b2b46-30d7-4ad6-8229-ca51b76e3000" />
 
+## PRACTICAL_9
+### Prim’s Algorithm Output
+<img width="457" height="101" alt="image" src="https://github.com/user-attachments/assets/46e65ad0-216e-492c-b239-d8950de8f0b1" />
+
+## PRACTICAL_10
+### 
+
+
 
 
 
