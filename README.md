@@ -46,7 +46,9 @@
 <img width="454" height="128" alt="image" src="https://github.com/user-attachments/assets/6d2ba859-0832-4203-9c9d-b22a85dbd3f4" />
 
 ## PRACTICAL_8
-### 
+### Graph+BFS+DFS Output
+<img width="455" height="153" alt="image" src="https://github.com/user-attachments/assets/157b2b46-30d7-4ad6-8229-ca51b76e3000" />
+
 
 
 
