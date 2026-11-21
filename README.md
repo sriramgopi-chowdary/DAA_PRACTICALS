@@ -63,6 +63,8 @@
 
 ## PRACTICAL_12
 ### Travelling Salesman Problem (TSP) Output
+<img width="454" height="105" alt="image" src="https://github.com/user-attachments/assets/1620f170-e568-40ef-ab3e-75c20d3815c9" />
+
 
 
 
