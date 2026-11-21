@@ -16,6 +16,9 @@
 <img width="456" height="111" alt="image" src="https://github.com/user-attachments/assets/03225081-8894-4eb9-897f-074879b0c170" />
 
 ## PRACTICAL_2
+### Linear Search Output
+<img width="457" height="99" alt="image" src="https://github.com/user-attachments/assets/c244d561-99b2-4cfb-9c72-6d00749098a6" />
+
 
 
 
